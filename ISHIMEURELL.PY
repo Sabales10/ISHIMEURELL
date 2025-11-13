@@ -1,5 +1,5 @@
-player_x = 0
-player_y = 0
+player_ishi = 0
+player_yanie = 0
 
 treasure_x = 15
 treasure_y = 3
