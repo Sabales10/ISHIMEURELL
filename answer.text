@@ -2,3 +2,16 @@
  Programmers use the command line because it is faster, more flexible, and allows them to run powerful commands efficiently.
  It prints the full directory path showing where you currently are in the file system.
 The file added is a README.md file, and it contains a short description or information about the project.
+ 
+diff --git a/ISHIMEURELL.PY b/ISHIMEURELL.PY
+index 6410f6b..bbac85c 100644
+--- a/ISHIMEURELL.PY
++++ b/ISHIMEURELL.PY
+@@ -5,7 +5,6 @@ treasure_x = 15
+ treasure_y = 3
+
+ game_running = True
+-print("Welcome to Sabales's Maze")
+ print(f"Find the treasure at ({treasure_x}, {treasure_y})!")
+
+ while game_running:
